@@ -29,7 +29,7 @@ int main(){
 			}
 		}
 	      }
-	 printf("Matrix mulktiplication is :\n");     
+	 printf("Matrix multiplication is :\n");     
 	for(i=0;i<r;i++){
 		for(j=0;j<c;j++){
 			printf("%d ",mul[i][j]);
